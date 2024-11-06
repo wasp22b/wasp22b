@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing <br>🌱 I’m currently learning<br>⚡ Fun fact
+🔭 I’m currently working on nothing <br>🌱 I’m currently learning<br>
 
 
 # 💻 Tech Stack:
